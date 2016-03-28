@@ -31,12 +31,12 @@
 #define START_SLOT 0     //first analog slot of piezos
 
 //MIDI note defines for each trigger
-#define SNARE_NOTE 70
-#define LTOM_NOTE 71
-#define RTOM_NOTE 72
-#define LCYM_NOTE 73
-#define RCYM_NOTE 74
-#define KICK_NOTE 75
+#define SNARE_NOTE 38
+#define LTOM_NOTE 50
+#define RTOM_NOTE 47
+#define LCYM_NOTE 42
+#define RCYM_NOTE 49
+#define KICK_NOTE 36
 
 //MIDI defines
 #define NOTE_ON_CMD 0x90
